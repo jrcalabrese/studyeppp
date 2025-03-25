@@ -1,0 +1,5 @@
+## Julianna's EPPP Study Materials
+
+This Github repository is a collection of my study materials for the [Examination for Professional Practice in Psychology (EPPP)](https://asppb.net/exams/eppp/). I have created an [Anki](https://apps.ankiweb.net/) set of flashcards for each category of the EPPP: 1) biological bases of behavior, 2) cognitive–affective bases of behavior, 3) social and cultural bases of behavior, 4) growth and life-span development, 5) assessment and diag- nosis, 6) treatment, intervention, prevention, and supervision, 7) research methods and statistics, and 8) ethical, legal, and professional issues
+
+Sources used in the creation of these study materials include [Klee and Moore (2018)](https://www.barnesandnoble.com/w/eppp-fundamentals-step-one-second-edition-anne-l-klee-phd/1137143628) and existing Anki EPPP flashcard sets from [here](https://ankiweb.net/shared/info/222583790) and [here](https://ankiweb.net/shared/by-author/804278457). 
